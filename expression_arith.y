@@ -4,6 +4,7 @@
 %{
 	extern int yylex();
 	extern int yyerror();
+	extern int numligne;
 %}
 
 %token PLUS MOINS DIV MULT
@@ -29,3 +30,9 @@ e3: PARANTHESE_OUVRANTE e1 PARANTHESE_FERMANTE
 	;
 	
 %%
+
+int yyerror(){
+	fprintf(stderr,"Erreur à la ligne %d\n", numligne);
+	
+	return -1;
+}
