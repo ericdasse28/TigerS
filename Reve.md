@@ -5,6 +5,6 @@ Cherchez les désirs au fond de votre coeur, ces choses qui vous permettront d'a
 S'il vous travaillez plus pour y arriver, ne vous mentez pas, travaillez davantage. N'ayez pas peur! Courage! Peu importe le temps que cela prendra, aussi longtemps que la flamme de la vie brûlera en vous, continuez à avancer, vivez dans le présent, affrontez la vie peu importe le niveau de difficulté
 et surtout ayez confiance en vous et en vos propres forces.
 
-Comme l'a dit Micheal Jordan :
+Comme l'a dit **Micheal Jordan** :
 
-Si tu abandonnes une fois, cela pourrait devenir une habitude, alors n'abandonne jamais
+>Si tu abandonnes une fois, cela pourrait devenir une habitude, alors n'abandonne jamais
